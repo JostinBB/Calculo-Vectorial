@@ -3,7 +3,6 @@
 ### [VER PÁGINA WEB — Abrir los 9 notebooks de Pluto.jl](https://jostinbb.github.io/Calculo-Vectorial/)
 
 **Sitio web:** https://jostinbb.github.io/Calculo-Vectorial/  
-**Autor:** Jostin Balarezo  
 
 ---
 
