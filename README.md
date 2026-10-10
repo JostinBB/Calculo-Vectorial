@@ -1,5 +1,12 @@
 # Taller 1 — Cálculo Vectorial
 
+### [VER PÁGINA WEB — Abrir los 9 notebooks de Pluto.jl](https://jostinbb.github.io/Calculo-Vectorial/)
+
+**Sitio web:** https://jostinbb.github.io/Calculo-Vectorial/  
+**Autor:** Jostin Balarezo  
+
+---
+
 **Autor:** Jostin Balarezo  
 **Carrera:** Ingeniería en Ciencias de la Computación — Universidad de Cuenca  
 **Herramientas:** Julia, Pluto.jl, SymPy y otras bibliotecas usadas por los notebooks.
@@ -22,7 +29,7 @@ Este repositorio reúne nueve partes del Taller 1. La página principal `index.h
 
 ## Visualizar las tareas
 
-Entra en la dirección del sitio publicado con GitHub Pages y pulsa **Abrir notebook** en la parte que quieras consultar. Los archivos HTML exportados por Pluto contienen los resultados guardados, las fórmulas y las gráficas. No requieren Julia para su lectura. Las nueve páginas tienen una barra flotante para regresar al índice y cambiar entre claro y oscuro, que se recuerda entre páginas.
+Abre [la página web](https://jostinbb.github.io/Calculo-Vectorial/) y pulsa **Abrir notebook** en la parte que quieras consultar. Los archivos HTML exportados por Pluto contienen los resultados guardados, las fórmulas y las gráficas. No requieren Julia para su lectura. Las nueve páginas tienen una barra flotante para regresar al índice y cambiar entre claro y oscuro, que se recuerda entre páginas.
 
 Los archivos `.jl` contienen los notebooks originales y permiten volver a ejecutarlos desde Pluto.jl con las dependencias correspondientes. La web publicada es una **versión estática**, no un servidor de Julia.
 
@@ -33,7 +40,7 @@ Los archivos `.jl` contienen los notebooks originales y permiten volver a ejecut
 3. En el repositorio, abre **Settings → Pages**.
 4. En **Build and deployment → Source**, selecciona **Deploy from a branch**.
 5. Selecciona **main** y **/(root)** y guarda.
-6. La web aparecerá en `https://TUUSUARIO.github.io/Calculo-Vectorial-Taller-1/` (sustituye `TUUSUARIO` por tu usuario y ajusta el nombre del repositorio si usaste otro).
+6. Abre la web en [https://jostinbb.github.io/Calculo-Vectorial/](https://jostinbb.github.io/Calculo-Vectorial/).
 
 La presencia de `.nojekyll` permite publicar los archivos estáticos directamente. No necesitas un servidor, dominio de pago ni una compilación adicional.
 
@@ -42,7 +49,7 @@ Más indicaciones en [COMO_PUBLICAR.md](COMO_PUBLICAR.md).
 ## Estructura
 
 ```text
-Calculo-Vectorial-Taller-1/
+Calculo-Vectorial/
 ├── index.html            # Portada y navegación (estilo Pluto)
 ├── favicon.svg           # Icono del sitio
 ├── pluto-site-theme.css  # Colores originales de Pluto, seleccionables
